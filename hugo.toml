@@ -1,6 +1,6 @@
 baseURL = "https://jong17.github.io/bulan-limited/"
-title = "Gallery"
-languageCode = "en-us"
+title = "BULAN"
+languageCode = "th-TH"
 copyright = "© Your Name"
 disableKinds = ["taxonomy", "term"]
 defaultContentLanguage = "en"
@@ -61,3 +61,7 @@ publishDir = "docs"
   name = "GitHub"
   url = "https://github.com/nicokaiser/hugo-theme-gallery/"
   weight = 3
+[[menu.footer]]
+  name = "Contact"
+  url = "https://github.com/nicokaiser/hugo-theme-gallery/"
+  weight = 4

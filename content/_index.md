@@ -1,7 +1,7 @@
 ---
-title: Hugo Gallery
-linktitle: Home
-description: An example site for hugo-theme-gallery. Images from Unsplash.
+title: Bulan Limited Partnership
+linktitle: หน้าแรก
+description: รับตัดเย็บเสื้อผ้าทุกรูปแบบด้วยทีมงานมืออาชีพ
 #lastmod: 2023-07-05
 featured_image: martin-martz-wRuhOOaG-Z4-unsplash.jpg # default: first image in this directory
 # featured_image on the home page is used for OpenGraph cards, etc.

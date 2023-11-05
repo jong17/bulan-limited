@@ -1,6 +1,6 @@
 ---
-title: Animals
-description: Hi mommm, pet kittens — and everything in between. Uncover the beauty of the animal kingdom through your screen.
+title: ชุดเดรส
+description: ชุดเดรส
 featured_image: janis-ringli-UC1pzyJFyvs-unsplash.jpg
 weight: 1
 
