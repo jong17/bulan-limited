@@ -1,7 +1,7 @@
 baseURL = "https://bulanlimited.com/"
 title = "BULAN"
 languageCode = "th-TH"
-copyright = "© Your Name"
+copyright = "© Bulan Limited Partnership 2023"
 disableKinds = ["taxonomy", "term"]
 defaultContentLanguage = "en"
 enableRobotsTXT = true
@@ -10,12 +10,12 @@ theme = "gallery"
 publishDir = "docs"
 
 [params]
-  title = "My Gallery"
-  description = "Example site for hugo-theme-gallery"
+  title = "Bulan Limited"
+  description = "รับตัดเย็บเสื้อผ้าทุกรูปแบบด้วยทีมงานคุณภาพ ราคาโรงงาน"
   defaultTheme = "dark"
 
 [author]
-  name = "Your Name"
+  name = "Faisol Lateh"
 
 [outputs]
   page = ["HTML"]
@@ -58,10 +58,18 @@ publishDir = "docs"
 
 [menu]
 [[menu.footer]]
-  name = "GitHub"
-  url = "https://github.com/nicokaiser/hugo-theme-gallery/"
+  name = "Map"
+  url = "https://maps.app.goo.gl/sDgYDVk485QT8uNb9"
+  weight = 2
+[[menu.footer]]
+  name = "Line"
+  url = "https://lin.ee/sQaCZCD"
   weight = 3
 [[menu.footer]]
-  name = "Contact"
-  url = "https://github.com/nicokaiser/hugo-theme-gallery/"
+  name = "Facebook"
+  url = "https://web.facebook.com/profile.php?id=100088360261784"
   weight = 4
+[[menu.footer]]
+  name = "Tiktok"
+  url = "https://www.tiktok.com/@bulanlimited"
+  weight = 5
