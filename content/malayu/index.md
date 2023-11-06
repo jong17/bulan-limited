@@ -2,6 +2,6 @@
 title: ชุดมลายู
 description: รับผลิตชุดมลายู ลูกค้าสนใจทำแบรนด์ มาปรึกษากับเราได้
 featured_image: 7583074523897503928457.png
-weight: 6
+weight: 8
 lastmod: 2023-11-05
 ---
