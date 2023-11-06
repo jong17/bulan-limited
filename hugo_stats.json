@@ -3,6 +3,7 @@
     "tags": [
       "a",
       "body",
+      "br",
       "button",
       "div",
       "footer",
@@ -17,10 +18,12 @@
       "link",
       "main",
       "meta",
+      "ol",
       "p",
       "path",
       "script",
       "span",
+      "strong",
       "svg",
       "title",
       "ul"
@@ -124,6 +127,8 @@
       "w-full",
       "xl:grid-cols-4"
     ],
-    "ids": null
+    "ids": [
+      "เปดรบสมครตำแหนงงาน"
+    ]
   }
 }
