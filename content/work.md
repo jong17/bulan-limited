@@ -19,6 +19,6 @@ menu:
 ติดต่อสมัครงาน  
 Tel: 088-7554667 (คุณฮามีซี)  
 Email: bulanlimitedpartnership@gmail.com  
-Facebook: [Bulan Limited Partnership](https://www.facebook.com/profile.php?id=100088360261784).  
-Tiktok: [bulanlimimted](https://www.tiktok.com/@bulanlimited).  
-Line: [@bulanlimited](https://lin.ee/sQaCZCD).
+Facebook: [Bulan Limited Partnership](https://www.facebook.com/profile.php?id=100088360261784)  
+Tiktok: [bulanlimimted](https://www.tiktok.com/@bulanlimited)   
+Line: [@bulanlimited](https://lin.ee/adtCQH8U)  
