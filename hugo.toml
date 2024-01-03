@@ -1,7 +1,7 @@
 baseURL = "https://bulanlimited.com/"
 title = "BULAN"
 languageCode = "th-TH"
-copyright = "© Bulan Limited Partnership 2023"
+copyright = "© Bulan Limited Partnership 2024"
 disableKinds = ["taxonomy", "term"]
 defaultContentLanguage = "en"
 enableRobotsTXT = true
@@ -67,9 +67,9 @@ publishDir = "docs"
   weight = 3
 [[menu.footer]]
   name = "Facebook"
-  url = "https://web.facebook.com/profile.php?id=100088360261784"
+  url = "https://www.facebook.com/profile.php?id=100063570896222"
   weight = 4
 [[menu.footer]]
   name = "Tiktok"
-  url = "https://www.tiktok.com/@bulanlimited"
+  url = "https://www.tiktok.com/@bulan.partnership"
   weight = 5
