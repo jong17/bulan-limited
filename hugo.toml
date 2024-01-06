@@ -5,9 +5,10 @@ copyright = "© Bulan Limited Partnership 2024"
 disableKinds = ["taxonomy", "term"]
 defaultContentLanguage = "en"
 enableRobotsTXT = true
-timeZone = "Europe/Berlin"
+timeZone = "Asia/Bangkok"
 theme = "gallery"
 publishDir = "docs"
+googleAnalytics = "G-8LEQ4Y03F9"
 
 [params]
   title = "Bulan Limited"
