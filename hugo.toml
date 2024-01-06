@@ -8,7 +8,10 @@ enableRobotsTXT = true
 timeZone = "Asia/Bangkok"
 theme = "gallery"
 publishDir = "docs"
-googleAnalytics = "G-8LEQ4Y03F9"
+
+[services]
+  [services.googleAnalytics]
+    ID = "G-8LEQ4Y03F9"
 
 [params]
   title = "Bulan Limited"
