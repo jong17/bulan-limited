@@ -9,9 +9,6 @@ timeZone = "Asia/Bangkok"
 theme = "gallery"
 publishDir = "docs"
 
-[services]
-  [services.googleAnalytics]
-    ID = "G-8LEQ4Y03F9"
 
 [params]
   title = "Bulan Limited"
