@@ -1,0 +1,75 @@
+baseURL = "https://bulanlimited.com/"
+title = "BULAN"
+languageCode = "th-TH"
+copyright = "© Bulan Limited Partnership 2024"
+disableKinds = ["taxonomy", "term"]
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+timeZone = "Europe/Berlin"
+theme = "gallery"
+publishDir = "docs"
+
+[params]
+  title = "Bulan Limited"
+  description = "รับตัดเย็บเสื้อผ้าทุกรูปแบบด้วยทีมงานคุณภาพ ราคาโรงงาน"
+  defaultTheme = "dark"
+
+[author]
+  name = "Faisol Lateh"
+
+[outputs]
+  page = ["HTML"]
+  home = ["HTML", "RSS"]
+  section = ["HTML"]
+
+[imaging]
+  resampleFilter = "CatmullRom"
+  quality = 75
+  [imaging.exif]
+    disableDate = false
+    disableLatLong = true
+    includeFields = "ImageDescription"
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.112.0"
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
+  [[module.mounts]]
+    source = "hugo_stats.json"
+    target = "assets/watching/hugo_stats.json"
+
+[build]
+  writeStats = true
+  [[build.cachebusters]]
+    source = "assets/watching/hugo_stats\\.json"
+    target = "styles\\.css"
+  [[build.cachebusters]]
+    source = "(postcss|tailwind)\\.config\\.js"
+    target = "css"
+  [[build.cachebusters]]
+    source = "assets/.*\\.(js)"
+    target = "js"
+  [[build.cachebusters]]
+    source = "assets/.*\\.(.*)$"
+    target = "$1"
+
+[menu]
+[[menu.footer]]
+  name = "Map"
+  url = "https://maps.app.goo.gl/sDgYDVk485QT8uNb9"
+  weight = 2
+[[menu.footer]]
+  name = "Line"
+  url = "https://lin.ee/adtCQH8U"
+  weight = 3
+[[menu.footer]]
+  name = "Facebook"
+  url = "https://www.facebook.com/profile.php?id=100063570896222"
+  weight = 4
+[[menu.footer]]
+  name = "Tiktok"
+  url = "https://www.tiktok.com/@bulan.partnership"
+  weight = 5
